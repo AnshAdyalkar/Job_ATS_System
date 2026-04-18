@@ -35,7 +35,7 @@ yarn-error.log*
 ./backend/.env
 
 ./frontend/.env 
-./frontend/.env.production
+
 
 # Ignore the image.png file in the public folder
 ./public/image.png
